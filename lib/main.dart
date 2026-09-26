@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'portofolio/app.dart';
+import 'ario_digital/app.dart';
 
-void main() => runApp(const PortfolioApp());
+void main() => runApp(const ArioDigitalApp());

@@ -1,15 +1,15 @@
 :root {
-  color-scheme: dark;
-  --color-ink: #070a12;
-  --color-panel: #0e1422;
-  --color-panel-raised: #151d2d;
-  --color-text: #f5f7fa;
-  --color-muted: #99a4b8;
-  --color-line: #263044;
-  --color-primary: #bbff36;
-  --color-secondary: #4aa8ff;
-  --color-warning: #ffb84a;
-  --color-light-surface: #f0f2eb;
+  color-scheme: light;
+  --color-ink: #eeede9;
+  --color-panel: #f5f4f0;
+  --color-panel-raised: #e3e6e5;
+  --color-text: #35383b;
+  --color-muted: #62666a;
+  --color-line: #cfd0ca;
+  --color-primary: #465d76;
+  --color-secondary: #58616a;
+  --color-warning: #dddcd5;
+  --color-light-surface: #e7e6e1;
   --font-body: "DM Sans", Arial, sans-serif;
   --font-display: Manrope, "DM Sans", Arial, sans-serif;
   --breakpoint-compact: 600px;
